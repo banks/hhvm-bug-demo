@@ -1,8 +1,8 @@
-= HHVM 3.0.1 FastCGI Error Demo =
+# HHVM 3.0.1 FastCGI Error Demo
 
 To support a ticket I'm about to file for https://github.com/facebook/hhvm
 
-=== Instructions ===
+## Instructions
 
 To see the working case first run php-fpm locally from this directory with port 9000.
 
